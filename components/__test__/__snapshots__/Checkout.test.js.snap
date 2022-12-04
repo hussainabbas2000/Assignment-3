@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 6 1`] = `
+<div
+  data-testid="checkout"
+>
+  <div
+    className="MuiContainer-root MuiContainer-maxWidthLg"
+  >
+    <div
+      className="makeStyles-main-1"
+    >
+      <h1
+        className="MuiTypography-root MuiTypography-h4 MuiTypography-colorPrimary MuiTypography-gutterBottom"
+      >
+        Coming soon!
+      </h1>
+    </div>
+  </div>
+</div>
+`;

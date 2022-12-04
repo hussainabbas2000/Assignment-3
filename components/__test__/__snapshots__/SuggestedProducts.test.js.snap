@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 2 1`] = `
+<div
+  data-testid="suggested"
+>
+  <h3
+    className="MuiTypography-root MuiTypography-h6"
+  >
+    Suggested Products
+  </h3>
+  <div
+    className="RSFSuggestedProducts-products-9"
+  >
+    <div
+      className="RSFLoadMask-root-12 RSFLoadMask-show-16"
+    >
+      <div
+        className="MuiCircularProgress-root MuiCircularProgress-colorSecondary MuiCircularProgress-indeterminate"
+        role="progressbar"
+        style={
+          {
+            "height": 40,
+            "width": 40,
+          }
+        }
+      >
+        <svg
+          className="MuiCircularProgress-svg"
+          viewBox="22 22 44 44"
+        >
+          <circle
+            className="MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+            cx={44}
+            cy={44}
+            fill="none"
+            r={20.2}
+            strokeWidth={3.6}
+            style={{}}
+          />
+        </svg>
+      </div>
+    </div>
+    <div
+      className="RSFSuggestedProducts-wrap-10"
+    />
+  </div>
+</div>
+`;
