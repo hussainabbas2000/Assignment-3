@@ -8,7 +8,7 @@
 
 <h2> Task 3 </h3>
 <h3> Prettier </h3>
-- To install "Prettier" for a project we need to run the  'npm install --save-dev --save-exact prettier' command in the working directory
+- <p>To install "Prettier" for a project we need to run the  'npm install --save-dev --save-exact prettier' command in the working directory</p>
 - Then check for the ".prettierrc" file in the folder
 - We can also verify from the "package.json" file which related dependencies are installed after the execution of the command.
 
