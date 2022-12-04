@@ -8,19 +8,19 @@
 
 <h2> Task 3 </h3>
 <h3> Prettier </h3>
-- <p>To install "Prettier" for a project we need to run the  'npm install --save-dev --save-exact prettier' command in the working directory</p>
-- Then check for the ".prettierrc" file in the folder
-- We can also verify from the "package.json" file which related dependencies are installed after the execution of the command.
+ <li>To install "Prettier" for a project we need to run the  'npm install --save-dev --save-exact prettier' command in the working directory</li>
+ <li>Then check for the ".prettierrc" file in the folder</li>
+ <li>We can also verify from the "package.json" file which related dependencies are installed after the execution of the command.</li>
 
 <h3> ESLINT </h3>
-- To install "ESLINT" for a project we need to run the  'npm install --save-dev --save-exact eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-airbnb' command in the working directory
-- Then check for "eslint" modules in the "node_modules" folder
-- Furthermore, we can also check for the eslint dependencies and scripts inn the "package.json" file
+ <li>To install "ESLINT" for a project we need to run the  'npm install --save-dev --save-exact eslint @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint-config-airbnb' command in the working directory</li>
+ <li>Then check for "eslint" modules in the "node_modules" folder</li>
+ <li>Furthermore, we can also check for the eslint dependencies and scripts inn the "package.json" file</li>
 
 <h3> Prettier with ESLINT </h3>
-- To configure ESLINT with Prettier we need to run the "npm install --save-dev --save-exact eslint-config-prettier eslint-plugin-prettier" command
-- We can see that in the "package.json" file, the "parser" attribute now has the following value: "@typescript-eslint/parser"
-- We can also see that in the "package.json" file, the "plugins" attribute now has the following value: ["@typescript-eslint","prettier"]
+ <li>To configure ESLINT with Prettier we need to run the "npm install --save-dev --save-exact eslint-config-prettier eslint-plugin-prettier" command</li>
+ <li>We can see that in the "package.json" file, the "parser" attribute now has the following value: "@typescript-eslint/parser"</li>
+ <li>We can also see that in the "package.json" file, the "plugins" attribute now has the following value: ["@typescript-eslint","prettier"]</li>
 
 
 
