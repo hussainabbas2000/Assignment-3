@@ -15,8 +15,8 @@
 5. Final Review
 
 <h2>MEETING 3 NOTES</h2>
-1. One last extensive check
-2. Final disscussion to conclude everything
+1. One last extensive check.
+2. Final disscussion to conclude everything.
 
 <h2> Task 3 </h3>
 <h3> Prettier </h3>
