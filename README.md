@@ -14,6 +14,10 @@
 4. Performance testing research and implementation
 5. Final Review
 
+<h2>MEETING 3 NOTES</h2>
+1. One last extensive check
+2. Final disscussion to conclude everything
+
 <h2> Task 3 </h3>
 <h3> Prettier </h3>
  <li>To install "Prettier" for a project we need to run the  'npm install --save-dev --save-exact prettier' command in the working directory</li>
