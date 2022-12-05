@@ -39,6 +39,7 @@ function ProductItem({ product, index, classes, className, colorSelector }) {
   const [store, updateStore] = useState(product)
 
   return (
+    <div data-testid="pI">
     <div id={`item-${index}`} className={clsx(className, classes.root)}>
       <Vbox alignItems="stretch">
         <ForwardThumbnail>
@@ -86,6 +87,7 @@ function ProductItem({ product, index, classes, className, colorSelector }) {
           <Typography className={classes.price}>{product.price}</Typography>
         </div>
       </Vbox>
+    </div>
     </div>
   )
 }

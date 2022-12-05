@@ -1,7 +1,18 @@
-<h2>MEETING 1 NOTES</h2>
+# react-storefront-starter-app
 
-1. Set Work flow
-2. Research on the framework
-3. Youtube tutorials for the work
-4. Division of tasks
-5. Task Allotment
+Starter Next.js app for React Storefront 7+
+
+# Development
+
+```
+npm i
+npm run dev
+```
+
+# Production
+
+You can get a better sense of the speed of React Storefront by running a production build:
+
+```
+npm run build && npm run prod
+```

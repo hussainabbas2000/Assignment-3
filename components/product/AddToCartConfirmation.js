@@ -63,6 +63,7 @@ export default function AddToCartConfirmation({
   const classes = useStyles()
 
   return (
+    <div data-testid="atc">
     <Dialog open={open} onClose={() => setOpen(false)} fullWidth maxWidth="xs">
       <DialogTitle disableTypography>
         <Typography component="h2" variant="h6">
@@ -105,5 +106,6 @@ export default function AddToCartConfirmation({
         </a>
       </DialogActions>
     </Dialog>
+    </div>
   )
 }
